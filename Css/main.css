@@ -24,7 +24,7 @@ header .nav-right-section {
     width: 250px;
     height: auto;
     display: flex;
-     justify-content: center;
+    justify-content: center;
     align-items: center; 
 }
 
@@ -77,8 +77,8 @@ main .main-input input {
     outline: none;
 }
 main .main-input-container:hover {
-     box-shadow: 0 1px 6px 0 #20212447;
-     border-color: #dfe1e511;
+    box-shadow: 0 1px 6px 0 #20212447;
+    border-color: #dfe1e511;
 }
 main .main-input .search-icon{
     background-image: url('https://cdn0.iconfinder.com/data/icons/google-material-design-3-0/48/ic_search_48px-512.png');
